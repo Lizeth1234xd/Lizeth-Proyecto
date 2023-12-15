@@ -363,7 +363,6 @@ La gastronomía boliviana es una rica amalgama de sabores, colores y tradiciones
       <option>Fricase</option>
       <option>Picana</option>
       <option>Falso Conejo</option>
-      {/* Agrega otras opciones según tus necesidades */}
     </Form.Control>
   </Form.Group>
 
